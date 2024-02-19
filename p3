@@ -1,0 +1,7 @@
+# to find second largest in 2 numbers
+a=int(input())
+b=int(input())
+if a < b:
+    print(a)
+else:
+    print(b)
